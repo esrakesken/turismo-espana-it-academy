@@ -2,7 +2,7 @@
 
 > Proyecto en equipo del curso de Data Analytics de IT Academy (Barcelona Activa), enero – febrero 2026: [Yoneidy Galindez](https://github.com/YoneidyGalindez), [Luis Chicott](https://github.com/luischicott), [Mariela Giménez](https://github.com/GimenezMariela), [Jianji Chen](https://github.com/JianjiC) y [Esra Kesken](https://github.com/esrakesken).
 >
-> Repositorio original (rama `Equip_22`): [ITACADEMYprojectes/ProjecteData](https://github.com/ITACADEMYprojectes/ProjecteData/tree/Equip_22/Equip_22)
+> Proyecto original en el repositorio `ProjecteData` de IT Academy (rama `Equip_22`).
 
 Análisis de una plataforma de alojamiento turístico con anuncios en ocho provincias españolas, combinado con datos de turismo del INE, para proponer acciones de negocio.
 
